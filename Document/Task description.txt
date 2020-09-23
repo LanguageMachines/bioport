@@ -1,0 +1,21 @@
+Lissabon wil graag:
+
+
+list of persons
+--------------
+We discussed what would be a good starting point and we like this list: portuguese people by occupation, it has many sub-lists that all contain person descriptions.
+
+https://pt.wikipedia.org/wiki/Categoria:Portugueses_por_ocupa%C3%A7%C3%A3o
+
+
+conversion of HTML to JSON
+with following fields:
+
+-extraction date: date of creation of JSon file
+
+per person:
+  -title: wiki-page-title
+  -person name: name of person
+  -wikidata-link: if there is a unique wikidata page, add this
+  -page-content:plain text zonder links, zonder bib-refererences of links die onderaan de Wikipedia page staan
+  - wikicatgory: list of all wiki categories
