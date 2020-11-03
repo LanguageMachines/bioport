@@ -1,0 +1,12 @@
+Scripts to collect biographical information about people from their wikipedia pages.
+
+Created June-Oct 2020 by Merijn Beeksma
+
+extra filtering was done by Iris Hendrickx by explicitly removed those json files that contained one of these categories:
+Cidades
+Municípios
+Concelhos
+Álbuns
+Fundações
+
+
